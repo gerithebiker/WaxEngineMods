@@ -4,7 +4,7 @@ Mechanical mods for the Opera Consonance Wax Engine. Mostly experimental – may
 This repository serves as a development lab for Wax Engine modifications, including:
 - tonearm extender designs
 - anti-skate mechanisms
-- head holding plate
+- headshell
 - accessory platforms and mounts
 
 Each module is self-contained and includes CAD files, STL exports, and basic documentation.
